@@ -91,7 +91,6 @@ int main()
     int i,F;
     int n = 0;
     list_element* t = list_new();
-    t->a = 'h';
     list_element* dub;
     list_element* head = t;
     scanf("%c",&s);
